@@ -3,6 +3,8 @@ An android application for the Mobile Application course of Engineering in Compu
 This app was developed during the Covid-19 pandemic and was born for facilitating the communication between the physiotherapist and its patients.
 (Code available soon)
 
+Developer: Ketbjano Vocaj
+
 # Login
 ![alt text](https://github.com/ketbj/Mobile_Application/blob/main/img/s1.jpg)
 ![alt text](https://github.com/ketbj/Mobile_Application/blob/main/img/s2.jpg)
@@ -12,5 +14,3 @@ This app was developed during the Covid-19 pandemic and was born for facilitatin
 
 # Suggested exercises for the patient
 ![alt text](https://github.com/ketbj/Mobile_Application/blob/main/img/s4.jpg)
-
-Developer: Ketbjano Vocaj
