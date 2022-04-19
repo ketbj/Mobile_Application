@@ -1,5 +1,5 @@
 # Fisio
-An android application for the Mobile Application course of Engineering in Computer Science **(April 2021)**
+An android application for the Mobile Application course of Engineering in Computer Science **(April 2021)**.
 This app was developed during the Covid-19 pandemic and was born for facilitating the communication between the physiotherapist and its patients.
 (Code available soon)
 
